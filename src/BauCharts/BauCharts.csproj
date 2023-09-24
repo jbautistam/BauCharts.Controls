@@ -5,7 +5,7 @@
     <RootNamespace>Bau.Controls.BauCharts</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="ScottPlot.WPF" Version="4.1.65" />
+    <PackageReference Include="ScottPlot.WPF" Version="4.1.67" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LibCharts\LibCharts.csproj" />
