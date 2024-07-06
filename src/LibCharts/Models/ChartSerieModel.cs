@@ -1,5 +1,4 @@
-﻿
-namespace Bau.Libraries.LibCharts.Models;
+﻿namespace Bau.Libraries.LibCharts.Models;
 
 /// <summary>
 ///		Clase con los datos de una serie
